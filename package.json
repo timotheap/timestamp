@@ -1,0 +1,15 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "FCC project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timotheap",
+  "license": "ISC",
+  "repository": "https://github.com/timotheap/timestamp.git",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
